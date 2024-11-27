@@ -7,6 +7,23 @@ Learn how to create a free Azure subscription, manage resources, and interact wi
 
 ---
 
+### Environments and Technologies Used
+- Microsoft Azure (Virtual Machines/Compute)
+- Azure Storage Account
+- Resource Groups
+
+### Operating Systems Used
+- Windows 10 (21H2)
+
+### List of Prerequisites
+1. Free Azure Subscription or Pay-As-You-Go Account.
+2. Access to the Azure Portal.
+3. Familiarity with creating Resource Groups in Azure.
+4. Basic knowledge of Storage Account setup.
+5. A text editor capable of saving plain text files.
+
+---
+
 ### Step-by-Step Process
 
 #### 1. Create a Free Azure Subscription
