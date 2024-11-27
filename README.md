@@ -1,8 +1,6 @@
 ![image](https://github.com/user-attachments/assets/a4f688b9-cdc5-4ec3-8657-b44bc438c47a)
 
-# Microsoft Azure Project Series: Exploring Core Features
-
-## Project 1: Creating and Managing Resources in Microsoft Azure
+## Creating and Managing Resources in Microsoft Azure
 
 ### Objective:
 Learn how to create a free Azure subscription, manage resources, and interact with Azure storage accounts, demonstrating fundamental Azure skills.
